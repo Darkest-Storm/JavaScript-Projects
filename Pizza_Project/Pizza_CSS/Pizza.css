@@ -1,0 +1,85 @@
+#menuBG {
+	width:400px;
+	height:470px;
+	margin:10px auto;
+	}
+
+#frmMenu {
+	width:600px;
+	height:200px;
+	}
+
+#totalPrice {
+	width:200px;
+	height:190px;
+	margin:0px auto;
+	float:right;
+	}
+
+.left {
+	width:200px;
+	height:200px;
+	float:left;
+	}
+
+.center {
+	width:200px;
+	height:200px;
+	float:left;
+	}
+	
+.right {
+	width:200px;
+	height:200px;
+	float:right;
+	}
+
+#showText {
+	width:200px;
+	height:190px;
+	margin:0px auto;
+	float:left;
+	}
+		
+#cart {
+	top:0;margin:0px auto;
+	width:400px;
+	height:200px;
+    }
+	
+#btnOrder {
+	margin:10px 0px 0px 100px;
+	width:100px;
+	height:40px;
+	display: block;
+	margin: 25px auto;
+	}
+
+/* CSS Pizza Menu Challenge
+1. Assign a background color to your <body> element.
+2. Assign a font family to all <h1> elements.
+3. Assign a color to all <h1> elements.
+4. Assign a font family to all <h3> elements.
+5. Assign a color to all <h3> elements.
+6. Assign a font family to all <div> elements.
+7. Assign a color to all <div> elements.
+*/
+body{
+    background-color: #99ccff;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+    text-align: center;
+}
+
+h3{
+    font-family: 'Comic Sans MS', sans-serif;
+    color: red;
+}
+
+div{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
